@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="fragment_home">FRAGMENT\nHOME</string>
+    <string name="timestamp_format">%1$tY/%1$tm/%1$td %1$TH:%1$TM:%1$TS</string>
+    <string name="long_format">%1$3d</string>
+    <string name="create_user_button">Create User</string>
+    <string name="delete_users_button">Delete All</string>
+</resources>
